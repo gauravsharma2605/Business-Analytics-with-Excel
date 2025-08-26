@@ -5,7 +5,7 @@ The project aims to analyze sales data for the year 2022 to provide insights int
 This will help the business make better decisions for 2023 & 2024.
 
 ## 📂 Dataset Used
-- [Sales_Dashboard.xlsx](./Sales_Dashboard.xlsx)
+- [Sales_Dashboard.xlsx](./Gaurav%20Project.xlsx)
 
 ## ❓ Key Questions (KPIs)
 - Compare the sales and orders using a single chart.  
